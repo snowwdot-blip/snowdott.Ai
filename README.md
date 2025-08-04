@@ -169,3 +169,17 @@ My first repository
 
 </body>
 </html>
+[Hero Image with Snowwdot.Ai logo & tagline]
+
+[Services with icons]
+🤖 AI Chatbots
+⚙️ Automation
+🚀 Robotics
+🧠 AI Tools
+🌐 Integration
+
+[About Us]
+
+[Contact Info]
+
+[Footer]
